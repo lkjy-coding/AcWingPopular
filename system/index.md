@@ -32,4 +32,4 @@ lkjy 并非24小时在线，因此有时可能不处理，敬请见谅。
 
 ::::
 
-**推荐阅读：**[公告板](https://lkjy-coding.github.io/AcWingPopular.html#system%2F%E5%85%AC%E5%91%8A%E6%9D%BF.md)、[反馈规则](https://lkjy-coding.github.io/AcWingPopular.html#Rules%2F%E5%8F%8D%E9%A6%88%E8%A7%84%E5%88%99.md)。
+**推荐阅读：**[公告板](https://lkjy-coding.github.io/AcWingPopular.html#system%2F%E5%85%AC%E5%91%8A%E6%9D%BF.md)、[反馈规则](https://lkjy-coding.github.io/AcWingPopular.html#Rules%2F%E5%8F%8D%E9%A6%88%E8%A7%84%E5%88%99.md)、[条目反馈规则](https://lkjy-coding.github.io/AcWingPopular.html#Rules%2F%E6%9D%A1%E7%9B%AE%E5%8F%8D%E9%A6%88%E8%A7%84%E5%88%99.md)。
