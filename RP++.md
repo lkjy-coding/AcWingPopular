@@ -4,7 +4,7 @@
 
 ::::correct[AC ALL!]
 
-**现在是 CSP 考试期间，祝所有 OI 考生 RP++，AK CSP！**
+**祝所有 OI 考生 RP++，AK ALL COMPETITIONS!!！**
 
 ::::
 
@@ -16,10 +16,17 @@
 
 而 **RP++** 即“人品不断增加“，**引申为“比赛顺利”**。
 
+## 延伸梗
+
+**RP--**：即“比赛失利”。**--**是 C\+\+ 的编程符号，即自减运算符。
+
 ## 梗的来源
 
 ::::needfix()
 
 ## 好图，存了！
+
+
+
 
 <img width="300" height="169" alt="90b34db0-d478-11f1-ba10-21e488728fb7" src="https://github.com/user-attachments/assets/6fb8fb66-290c-4407-85eb-bae1a1cf7ca4" />
